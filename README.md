@@ -39,4 +39,4 @@ The implementation of VEML offers numerous advantages, such as:
 We understand that developing a markup without an app that supports it, is not a good idea, so we created open-source tool called [Embedditor](https://embedditor.ai). You can download it from Github or Docker and run it on your local server to start working with the VEML files and editor.
 ## How VEML Markup looks like
 
-![1](https://embedditor.ai/images/embedditor_ui_05.png)
+![1](https://embedditor.ai/imagesh up/embedditor_ui_05.png)
